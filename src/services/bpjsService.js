@@ -109,7 +109,6 @@ const getRencanakontrolnokp = async (bulan, tahun, noKP, filter) => {
 module.exports = {
   getPeserta,
   getMonitoringKunjungan,
-  getMonitoringHistoriPelayanan,
   getRencanakontrolnokp,
   getRencanakontrol,
 };
